@@ -3,6 +3,8 @@ CodeMirror
 
 CodeMirror default Color Scheme for Sublime Text 3
 
+![Snapshot](http://i.imgur.com/YEOhcNY.png)
+
 Copyright 2014 Neil Opet
 
 Licensed under the Apache License, Version 2.0 (the "License");
